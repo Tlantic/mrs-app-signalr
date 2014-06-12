@@ -1,0 +1,5 @@
+{
+    "moduleDeployFile"      : "mrssignalr_<%= pkg.version %>.js",
+    "minifiedDeployFile"    : "mrssignalr_<%= pkg.version %>.min.js",
+    "obfuscate"             : true
+}
